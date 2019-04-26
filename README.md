@@ -1,2 +1,2 @@
 # NaiveBayes_Diabetes
-Introduction to data mining. Performed Naive Bayes on Diabetes dataset.
+First assignment for a Data mining related course. The aim of this project is to perform Naive Bayes classifier on the diabetes dataset. The experiment is done on  
